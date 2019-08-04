@@ -1,6 +1,6 @@
-# foo
+# Counter App Flutter with Bloc
 
-A new Flutter project.
+A Flutter project using bloc_flutter to build counter app
 
 ## Getting Started
 
